@@ -13,7 +13,7 @@ pip2 install requests
 
 pip2 install mechanize
 
-git clone 
+git clone https://github.com/Mysterious-71/M71-Phishing
 cd *Filename 
 
 ls

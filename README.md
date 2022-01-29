@@ -7,14 +7,13 @@ pkg install python
 
 pkg install python2
 
-pkg install pip
-
 pip2 install requests
 
 pip2 install mechanize
 
 git clone https://github.com/Mysterious-71/M71-Phishing
-cd *Filename 
+
+cd M71-Phishing 
 
 ls
 
